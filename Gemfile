@@ -1,4 +1,3 @@
-# A sample Gemfile
 source "https://rubygems.org"
 
 gem 'sinatra'
@@ -8,3 +7,5 @@ gem 'rake'
 gem 'pry'
 gem 'sinatra-activerecord'
 gem 'require_all'
+gem 'shotgun'
+gem 'bcrypt', '~> 3.1.7'
